@@ -1,0 +1,4079 @@
+[
+  {
+    "id": 120001,
+    "question": "Điểm khác biệt lớn nhất của Nguyễn Ái Quốc so với các nhà yêu nước tiền bối trong việc tìm kiếm sự giúp đỡ từ bên ngoài là",
+    "options": [
+      {
+        "id": "A",
+        "text": "không ảo tưởng vào đế quốc, tìm đến các dân tộc bị áp bức và vô sản."
+      },
+      {
+        "id": "B",
+        "text": "Người chỉ tin vào sự giúp đỡ của các nước châu Á."
+      },
+      {
+        "id": "C",
+        "text": "Người từ chối mọi sự giúp đỡ từ bên ngoài."
+      },
+      {
+        "id": "D",
+        "text": "Người chỉ dựa vào sự giúp đỡ của các cá nhân."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120002,
+    "question": "Việc Đảng Cộng sản Đông Dương là một phân bộ của Quốc tế Cộng sản có ý nghĩa như thế nào đối với công tác đối ngoại?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Đặt cách mạng Việt Nam vào quỹ đạo cách mạng thế giới, tranh thủ sự ủng hộ."
+      },
+      {
+        "id": "B",
+        "text": "Làm cho cách mạng Việt Nam hoàn toàn phụ thuộc vào Liên Xô."
+      },
+      {
+        "id": "C",
+        "text": "Gây khó khăn cho việc đoàn kết các lực lượng dân tộc khác."
+      },
+      {
+        "id": "D",
+        "text": "Khiến cho các nước đế quốc dễ dàng can thiệp vào Việt Nam."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120003,
+    "question": "Hoạt động đối ngoại của Việt Nam trong giai đoạn 1939 – 1945 có điểm gì mới so với giai đoạn 1930 – 1935?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chỉ liên lạc với Quốc tế Cộng sản."
+      },
+      {
+        "id": "B",
+        "text": "Mở rộng quan hệ với các lực lượng Đồng minh để chống kẻ thù chung."
+      },
+      {
+        "id": "C",
+        "text": "Cắt đứt hoàn toàn quan hệ với bên ngoài."
+      },
+      {
+        "id": "D",
+        "text": "Chỉ tập trung vào việc đoàn kết các lực lượng trong nước."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120004,
+    "question": "Hội nghị Trung ương 8 (5/1941) đã đặt nhiệm vụ nào lên hàng đầu?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Đấu tranh đòi dân sinh, dân chủ."
+      },
+      {
+        "id": "B",
+        "text": "Cách mạng ruộng đất."
+      },
+      {
+        "id": "C",
+        "text": "Giải phóng dân tộc."
+      },
+      {
+        "id": "D",
+        "text": "Đấu tranh nghị trường."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120005,
+    "question": "Việc thành lập các đội Cứu quốc quân, Việt Nam Tuyên truyền Giải phóng quân có tác dụng đối ngoại như thế nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Thể hiện sức mạnh cách mạng, tạo cơ sở hợp tác với Đồng minh."
+      },
+      {
+        "id": "B",
+        "text": "Gây ra sự lo ngại cho các nước láng giềng."
+      },
+      {
+        "id": "C",
+        "text": "Chỉ có tác dụng trong công tác đối nội."
+      },
+      {
+        "id": "D",
+        "text": "Gây khó khăn cho việc đàm phán ngoại giao."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120006,
+    "question": "Chính sách đối ngoại của Việt Minh đã góp phần như thế nào vào thắng lợi của Cách mạng tháng Tám năm 1945?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Phân hóa kẻ thù, tranh thủ sự ủng hộ của các lực lượng tiến bộ."
+      },
+      {
+        "id": "B",
+        "text": "Trực tiếp đưa quân Đồng minh vào giúp Việt Nam khởi nghĩa."
+      },
+      {
+        "id": "C",
+        "text": "Quyết định hoàn toàn thắng lợi của cách mạng."
+      },
+      {
+        "id": "D",
+        "text": "Không có đóng góp nào đáng kể."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120007,
+    "question": "Nhìn chung, hoạt động đối ngoại của Việt Nam trước năm 1945 luôn nhằm thực hiện mục tiêu cuối cùng là gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tìm kiếm viện trợ kinh tế."
+      },
+      {
+        "id": "B",
+        "text": "Tạo điều kiện quốc tế thuận lợi cho cuộc đấu tranh giành độc lập."
+      },
+      {
+        "id": "C",
+        "text": "Trở thành một quốc gia có tầm ảnh hưởng lớn."
+      },
+      {
+        "id": "D",
+        "text": "Giao lưu, học hỏi văn hóa các nước."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120008,
+    "question": "Ngay sau Cách mạng tháng Tám năm 1945, để đối phó với quân Trung Hoa Dân quốc ở phía Bắc, Đảng và Chính phủ ta đã thực hiện chủ trương gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chủ trương “hòa hoãn, nhân nhượng”."
+      },
+      {
+        "id": "B",
+        "text": "Kiên quyết dùng vũ lực để đánh đuổi."
+      },
+      {
+        "id": "C",
+        "text": "Kêu gọi Liên Hợp Quốc can thiệp."
+      },
+      {
+        "id": "D",
+        "text": "Dựa vào Pháp để chống lại quân Trung Hoa Dân quốc."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120009,
+    "question": "Việc ký kết Hiệp định Sơ bộ (6/3/1946) với Pháp đã giúp ta đạt được mục tiêu quan trọng nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Đẩy nhanh 20 vạn quân Tưởng ra khỏi nước ta."
+      },
+      {
+        "id": "B",
+        "text": "Pháp công nhận Việt Nam là một quốc gia hoàn toàn độc lập."
+      },
+      {
+        "id": "C",
+        "text": "Nhanh chóng kết thúc chiến tranh."
+      },
+      {
+        "id": "D",
+        "text": "Nhận được viện trợ kinh tế từ Pháp."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120010,
+    "question": "Để kéo dài thời gian hòa hoãn, chuẩn bị cho kháng chiến lâu dài, Chủ tịch Hồ Chí Minh đã ký với Chính phủ Pháp văn kiện ngoại giao nào vào ngày 14/9/1946?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hiệp định Sơ bộ."
+      },
+      {
+        "id": "B",
+        "text": "Hiệp định Giơnevơ."
+      },
+      {
+        "id": "C",
+        "text": "Hiệp định Pari."
+      },
+      {
+        "id": "D",
+        "text": "Tạm ước Việt – Pháp."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120011,
+    "question": "Trong những năm 1946 – 1950, hoạt động đối ngoại của Việt Nam có khó khăn lớn nhất là",
+    "options": [
+      {
+        "id": "A",
+        "text": "bị các nước đế quốc bao vây, cô lập."
+      },
+      {
+        "id": "B",
+        "text": "không nhận được sự ủng hộ của nhân dân trong nước."
+      },
+      {
+        "id": "C",
+        "text": "nội bộ Đảng và Chính phủ bị chia rẽ."
+      },
+      {
+        "id": "D",
+        "text": "không có đường lối đối ngoại đúng đắn."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120012,
+    "question": "Sự kiện nào đã phá vỡ thế bao vây, cô lập của các nước đế quốc đối với cuộc kháng chiến chống Pháp của nhân dân ta?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chiến thắng Việt Bắc thu – đông 1947."
+      },
+      {
+        "id": "B",
+        "text": "Các nước XHCN công nhận và đặt quan hệ ngoại giao 1950."
+      },
+      {
+        "id": "C",
+        "text": "Thắng lợi của chiến dịch Điện Biên Phủ 1954."
+      },
+      {
+        "id": "D",
+        "text": "Hiệp định Giơnevơ được ký kết năm 1954."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120013,
+    "question": "Thắng lợi trên mặt trận nào có ý nghĩa quyết định, buộc Pháp phải ký Hiệp định Giơnevơ năm 1954?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mặt trận kinh tế."
+      },
+      {
+        "id": "B",
+        "text": "Mặt trận chính trị."
+      },
+      {
+        "id": "C",
+        "text": "Mặt trận quân sự."
+      },
+      {
+        "id": "D",
+        "text": "Mặt trận văn hóa – tư tưởng."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120014,
+    "question": "Trong giai đoạn 1954 – 1975, hoạt động đối ngoại của Việt Nam có nhiệm vụ trọng tâm là",
+    "options": [
+      {
+        "id": "A",
+        "text": "tranh thủ ủng hộ quốc tế cho sự nghiệp ở cả hai miền."
+      },
+      {
+        "id": "B",
+        "text": "chỉ tập trung vào việc xây dựng chủ nghĩa xã hội ở miền Bắc."
+      },
+      {
+        "id": "C",
+        "text": "chỉ tập trung vào cuộc đấu tranh ngoại giao để đòi Mĩ thi hành Hiệp định Giơnevơ."
+      },
+      {
+        "id": "D",
+        "text": "thiết lập quan hệ ngoại giao với tất cả các nước trên thế giới."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120015,
+    "question": "Cuộc đàm phán chính thức giữa Việt Nam và Mĩ về việc chấm dứt chiến tranh diễn ra ở đâu?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Giơnevơ (Thụy Sĩ)."
+      },
+      {
+        "id": "B",
+        "text": "Pari (Pháp)."
+      },
+      {
+        "id": "C",
+        "text": "Mátxcơva (Liên Xô)."
+      },
+      {
+        "id": "D",
+        "text": "Bắc Kinh (Trung Quốc)."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120016,
+    "question": "Sự kiện nào đánh dấu Việt Nam trở thành thành viên của Liên Hợp Quốc?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Năm 1977, trở thành thành viên thứ 149 của Liên Hợp Quốc."
+      },
+      {
+        "id": "B",
+        "text": "Năm 1975, ngay sau khi thống nhất đất nước."
+      },
+      {
+        "id": "C",
+        "text": "Năm 1986, khi bắt đầu công cuộc Đổi mới."
+      },
+      {
+        "id": "D",
+        "text": "Năm 1995, cùng lúc gia nhập ASEAN."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120017,
+    "question": "Trong giai đoạn 1975 – 1985, chính sách đối ngoại của Việt Nam ưu tiên quan hệ với",
+    "options": [
+      {
+        "id": "A",
+        "text": "các nước tư bản phương Tây."
+      },
+      {
+        "id": "B",
+        "text": "các nước trong khu vực Đông Nam Á."
+      },
+      {
+        "id": "C",
+        "text": "Liên Xô và các nước xã hội chủ nghĩa."
+      },
+      {
+        "id": "D",
+        "text": "các nước trong phong trào không liên kết."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120018,
+    "question": "Đường lối đối ngoại của Việt Nam trong thời kì Đổi mới (từ năm 1986) là",
+    "options": [
+      {
+        "id": "A",
+        "text": "đóng cửa, tự cung tự cấp."
+      },
+      {
+        "id": "B",
+        "text": "đa phương hóa, đa dạng hóa, muốn là bạn của tất cả các nước."
+      },
+      {
+        "id": "C",
+        "text": "chỉ quan hệ với các nước láng giềng."
+      },
+      {
+        "id": "D",
+        "text": "chỉ quan hệ với các cường quốc kinh tế."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120019,
+    "question": "Việt Nam gia nhập Hiệp hội các quốc gia Đông Nam Á (ASEAN) vào năm nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1986."
+      },
+      {
+        "id": "B",
+        "text": "1995."
+      },
+      {
+        "id": "C",
+        "text": "2007."
+      },
+      {
+        "id": "D",
+        "text": "1991."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120020,
+    "question": "Sự kiện Việt Nam bình thường hóa quan hệ với Trung Quốc và Mĩ diễn ra trong thập niên nào của thế kỉ XX?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Thập niên 60."
+      },
+      {
+        "id": "B",
+        "text": "Thập niên 70."
+      },
+      {
+        "id": "C",
+        "text": "Thập niên 80."
+      },
+      {
+        "id": "D",
+        "text": "Thập niên 90."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120021,
+    "question": "Năm 2007, Việt Nam đã trở thành thành viên chính thức của tổ chức nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diễn đàn hợp tác kinh tế châu Á – Thái Bình Dương (APEC)."
+      },
+      {
+        "id": "B",
+        "text": "Tổ chức Thương mại Thế giới (WTO)."
+      },
+      {
+        "id": "C",
+        "text": "Liên minh châu Âu (EU)."
+      },
+      {
+        "id": "D",
+        "text": "Hiệp hội các quốc gia Đông Nam Á (ASEAN)."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120022,
+    "question": "Mục tiêu hàng đầu trong chính sách đối ngoại của Việt Nam hiện nay là",
+    "options": [
+      {
+        "id": "A",
+        "text": "giữ vững môi trường hòa bình, ổn định để phát triển."
+      },
+      {
+        "id": "B",
+        "text": "trở thành một cường quốc quân sự trên thế giới."
+      },
+      {
+        "id": "C",
+        "text": "cạnh tranh ảnh hưởng với các nước lớn."
+      },
+      {
+        "id": "D",
+        "text": "nhận được nhiều viện trợ không hoàn lại."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120023,
+    "question": "Hoạt động đối ngoại đa phương là hoạt động của Việt Nam tại",
+    "options": [
+      {
+        "id": "A",
+        "text": "quan hệ với từng quốc gia và vùng lãnh thổ."
+      },
+      {
+        "id": "B",
+        "text": "quan hệ giữa Việt Nam với các tổ chức quốc tế."
+      },
+      {
+        "id": "C",
+        "text": "quan hệ giữa các địa phương của Việt Nam với nhau."
+      },
+      {
+        "id": "D",
+        "text": "quan hệ giữa các doanh nghiệp Việt Nam với nhau."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120024,
+    "question": "Hoạt động đối ngoại đa phương là hoạt động của Việt Nam tại",
+    "options": [
+      {
+        "id": "A",
+        "text": "các nước láng giềng."
+      },
+      {
+        "id": "B",
+        "text": "các nước lớn."
+      },
+      {
+        "id": "C",
+        "text": "các tổ chức, diễn đàn quốc tế và khu vực."
+      },
+      {
+        "id": "D",
+        "text": "các cơ quan ngoại giao ở nước ngoài."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120025,
+    "question": "Phương châm đối ngoại “hòa để tiến” trong giai đoạn 1945-1946 có nghĩa là",
+    "options": [
+      {
+        "id": "A",
+        "text": "hòa hoãn vô điều kiện."
+      },
+      {
+        "id": "B",
+        "text": "nhân nhượng có nguyên tắc để chuẩn bị lực lượng."
+      },
+      {
+        "id": "C",
+        "text": "chỉ hòa hoãn với quân Trung Hoa Dân quốc."
+      },
+      {
+        "id": "D",
+        "text": "chỉ hòa hoãn với Pháp."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120026,
+    "question": "Mặt trận ngoại giao trong kháng chiến chống Mĩ có vai trò như thế nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Phối hợp với mặt trận quân sự, chính trị tạo nên sức mạnh tổng hợp."
+      },
+      {
+        "id": "B",
+        "text": "Đóng vai trò quyết định duy nhất đến thắng lợi."
+      },
+      {
+        "id": "C",
+        "text": "Không có vai trò gì quan trọng."
+      },
+      {
+        "id": "D",
+        "text": "Chỉ bắt đầu có vai trò sau năm 1973."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120027,
+    "question": "Việc Việt Nam phải đối mặt với chính sách bao vây, cấm vận của Mĩ và các nước phương Tây là đặc điểm của giai đoạn nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1954 – 1975."
+      },
+      {
+        "id": "B",
+        "text": "1975 – 1989."
+      },
+      {
+        "id": "C",
+        "text": "1990 – 2000."
+      },
+      {
+        "id": "D",
+        "text": "Sau năm 2000."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120028,
+    "question": "“Chủ động và tích cực hội nhập quốc tế” là nội dung được bổ sung vào đường lối đối ngoại của Việt Nam từ",
+    "options": [
+      {
+        "id": "A",
+        "text": "Đại hội VI (1986)."
+      },
+      {
+        "id": "B",
+        "text": "Đại hội VII (1991)."
+      },
+      {
+        "id": "C",
+        "text": "Đại hội VIII (1996)."
+      },
+      {
+        "id": "D",
+        "text": "Đại hội IX (2001)."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120029,
+    "question": "Việc Việt Nam hai lần được bầu làm Ủy viên không thường trực Hội đồng Bảo an Liên Hợp Quốc thể hiện điều gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sức mạnh kinh tế vượt trội của Việt Nam."
+      },
+      {
+        "id": "B",
+        "text": "Sự tín nhiệm và vị thế ngày càng cao của Việt Nam."
+      },
+      {
+        "id": "C",
+        "text": "Sự ưu ái của các nước lớn dành cho Việt Nam."
+      },
+      {
+        "id": "D",
+        "text": "Việt Nam là thành viên sáng lập Liên Hợp Quốc."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120030,
+    "question": "Trong chính sách đối ngoại hiện nay, Việt Nam luôn coi trọng quan hệ với",
+    "options": [
+      {
+        "id": "A",
+        "text": "chỉ các nước lớn."
+      },
+      {
+        "id": "B",
+        "text": "chỉ các nước ASEAN."
+      },
+      {
+        "id": "C",
+        "text": "các nước láng giềng, đối tác chiến lược và toàn diện."
+      },
+      {
+        "id": "D",
+        "text": "chỉ các nước có cùng ý thức hệ."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120031,
+    "question": "Đâu là một trong những nguyên tắc đối ngoại của Việt Nam sau Cách mạng tháng Tám 1945?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tôn trọng độc lập, chủ quyền của các nước khác."
+      },
+      {
+        "id": "B",
+        "text": "Can thiệp vào công việc nội bộ của nước khác."
+      },
+      {
+        "id": "C",
+        "text": "Chỉ quan hệ với các nước cùng phe."
+      },
+      {
+        "id": "D",
+        "text": "Sẵn sàng gây chiến để giải quyết tranh chấp."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120032,
+    "question": "Hoạt động đối ngoại nhân dân có vai trò như thế nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tăng cường tình hữu nghị, hiểu biết giữa các dân tộc."
+      },
+      {
+        "id": "B",
+        "text": "Quyết định chính sách đối ngoại của nhà nước."
+      },
+      {
+        "id": "C",
+        "text": "Thay thế hoàn toàn cho ngoại giao nhà nước."
+      },
+      {
+        "id": "D",
+        "text": "Chỉ có tác dụng trong lĩnh vực văn hóa, thể thao."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120033,
+    "question": "Thắng lợi của cuộc kháng chiến chống Pháp và chống Mĩ trên mặt trận ngoại giao đều cho thấy",
+    "options": [
+      {
+        "id": "A",
+        "text": "ngoại giao luôn đi trước và quyết định thắng lợi quân sự."
+      },
+      {
+        "id": "B",
+        "text": "thắng lợi quân sự tạo ưu thế cho đấu tranh ngoại giao."
+      },
+      {
+        "id": "C",
+        "text": "chỉ cần đấu tranh ngoại giao là có thể giành thắng lợi."
+      },
+      {
+        "id": "D",
+        "text": "vai trò của mặt trận quân sự và ngoại giao là như nhau trong mọi giai đoạn."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120034,
+    "question": "Khó khăn lớn nhất trong quan hệ quốc tế của Việt Nam sau khi thống nhất đất nước là",
+    "options": [
+      {
+        "id": "A",
+        "text": "vấn đề người Hoa."
+      },
+      {
+        "id": "B",
+        "text": "vấn đề Campuchia và quan hệ với các nước lớn, láng giềng."
+      },
+      {
+        "id": "C",
+        "text": "vấn đề nợ nước ngoài."
+      },
+      {
+        "id": "D",
+        "text": "vấn đề xây dựng lại đất nước."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120035,
+    "question": "Việc phá thế bao vây, cấm vận là thành tựu đối ngoại quan trọng của Việt Nam trong",
+    "options": [
+      {
+        "id": "A",
+        "text": "cuộc kháng chiến chống Pháp."
+      },
+      {
+        "id": "B",
+        "text": "cuộc kháng chiến chống Mĩ."
+      },
+      {
+        "id": "C",
+        "text": "thời kì đầu của công cuộc Đổi mới."
+      },
+      {
+        "id": "D",
+        "text": "giai đoạn hiện nay."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120036,
+    "question": "Một trong những thành tựu đối ngoại của Việt Nam trong thời kì Đổi mới là",
+    "options": [
+      {
+        "id": "A",
+        "text": "giải quyết nhiều vấn đề biên giới, lãnh thổ với các nước."
+      },
+      {
+        "id": "B",
+        "text": "đã giải quyết triệt để vấn đề tranh chấp trên Biển Đông."
+      },
+      {
+        "id": "C",
+        "text": "đã xây dựng được một liên minh quân sự vững mạnh."
+      },
+      {
+        "id": "D",
+        "text": "đã trở thành trung tâm kinh tế – tài chính của thế giới."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120037,
+    "question": "Nhìn chung, hoạt động đối ngoại của Việt Nam từ năm 1945 đến nay luôn nhằm mục tiêu cao nhất là",
+    "options": [
+      {
+        "id": "A",
+        "text": "bảo vệ lợi ích quốc gia và tạo môi trường thuận lợi để phát triển."
+      },
+      {
+        "id": "B",
+        "text": "nhận được càng nhiều viện trợ càng tốt."
+      },
+      {
+        "id": "C",
+        "text": "thể hiện vai trò, tầm ảnh hưởng của một nước lớn."
+      },
+      {
+        "id": "D",
+        "text": "giao lưu, học hỏi kinh nghiệm từ tất cả các nước."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120038,
+    "question": "Chủ tịch Hồ Chí Minh sinh vào ngày, tháng, năm nào và ở đâu?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ngày 19/5/1890 tại xã Kim Liên, huyện Hưng Nguyên, tỉnh Nghệ An."
+      },
+      {
+        "id": "B",
+        "text": "Ngày 19/5/1890 tại xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An."
+      },
+      {
+        "id": "C",
+        "text": "Ngày 02/9/1890 tại xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An."
+      },
+      {
+        "id": "D",
+        "text": "Ngày 19/5/1891 tại làng Hoàng Trù, huyện Nam Đàn, tỉnh Nghệ An."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120039,
+    "question": "Năm 1911, Nguyễn Tất Thành đã rời Bến cảng Nhà Rồng (Sài Gòn) ra đi tìm đường cứu nước với mục đích gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sang Pháp để học hỏi kĩ thuật quân sự."
+      },
+      {
+        "id": "B",
+        "text": "Tìm hiểu văn minh phương Tây và con đường cứu nước đúng đắn."
+      },
+      {
+        "id": "C",
+        "text": "Kêu gọi các nước phương Tây giúp Việt Nam đánh đuổi thực dân Pháp."
+      },
+      {
+        "id": "D",
+        "text": "Sang Nhật Bản để tham gia phong trào Đông Du."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120040,
+    "question": "Sự kiện nào được xem là bước ngoặt, đưa Nguyễn Ái Quốc từ chủ nghĩa yêu nước đến với chủ nghĩa Mác – Lênin?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tham gia sáng lập Đảng Cộng sản Pháp (12/1920)."
+      },
+      {
+        "id": "B",
+        "text": "Gửi bản “Yêu sách của nhân dân An Nam” đến Hội nghị Vécxai (1919)."
+      },
+      {
+        "id": "C",
+        "text": "Đọc “Luận cương về vấn đề dân tộc và vấn đề thuộc địa” của Lênin."
+      },
+      {
+        "id": "D",
+        "text": "Thành lập Hội Việt Nam Cách mạng Thanh niên (1925)."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120041,
+    "question": "Tác phẩm “Bản án chế độ thực dân Pháp” của Nguyễn Ái Quốc được xuất bản lần đầu tiên tại đâu?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mátxcơva (Liên Xô)."
+      },
+      {
+        "id": "B",
+        "text": "Quảng Châu (Trung Quốc)."
+      },
+      {
+        "id": "C",
+        "text": "Luân Đôn (Anh)."
+      },
+      {
+        "id": "D",
+        "text": "Pari (Pháp)."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120042,
+    "question": "Năm 1925, tại Quảng Châu (Trung Quốc), Nguyễn Ái Quốc đã thành lập tổ chức cách mạng nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tâm tâm xã."
+      },
+      {
+        "id": "B",
+        "text": "Cộng sản đoàn."
+      },
+      {
+        "id": "C",
+        "text": "Việt Nam Quốc dân Đảng."
+      },
+      {
+        "id": "D",
+        "text": "Hội Việt Nam Cách mạng Thanh niên."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120043,
+    "question": "Ai là người đã chủ trì Hội nghị hợp nhất các tổ chức cộng sản, thành lập Đảng Cộng sản Việt Nam vào đầu năm 1930?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Trần Phú."
+      },
+      {
+        "id": "B",
+        "text": "Lê Hồng Phong."
+      },
+      {
+        "id": "C",
+        "text": "Nguyễn Ái Quốc."
+      },
+      {
+        "id": "D",
+        "text": "Hà Huy Tập."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120044,
+    "question": "Sau 30 năm hoạt động ở nước ngoài, Nguyễn Ái Quốc đã trở về nước để trực tiếp lãnh đạo cách mạng vào năm nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1930."
+      },
+      {
+        "id": "B",
+        "text": "1939."
+      },
+      {
+        "id": "C",
+        "text": "1941."
+      },
+      {
+        "id": "D",
+        "text": "1945."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120045,
+    "question": "Tại Hội nghị Trung ương 8 (tháng 5/1941) ở Pác Bó (Cao Bằng), theo sáng kiến của Nguyễn Ái Quốc, mặt trận nào đã được thành lập?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mặt trận Dân chủ Đông Dương."
+      },
+      {
+        "id": "B",
+        "text": "Mặt trận Phản đế Đông Dương."
+      },
+      {
+        "id": "C",
+        "text": "Mặt trận Thống nhất Dân tộc Phản đế."
+      },
+      {
+        "id": "D",
+        "text": "Mặt trận Việt Nam độc lập đồng minh (Việt Minh)."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120046,
+    "question": "Ai là người đã soạn thảo và đọc bản Tuyên ngôn Độc lập, khai sinh ra nước Việt Nam Dân chủ Cộng hoà vào ngày 2/9/1945?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Võ Nguyên Giáp."
+      },
+      {
+        "id": "B",
+        "text": "Trường Chinh."
+      },
+      {
+        "id": "C",
+        "text": "Hồ Chí Minh."
+      },
+      {
+        "id": "D",
+        "text": "Phạm Văn Đồng."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120047,
+    "question": "Lời kêu gọi toàn quốc kháng chiến “Chúng ta thà hi sinh tất cả, chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ” gắn liền với sự kiện nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cuộc kháng chiến toàn quốc chống Pháp bùng nổ (19/12/1946)."
+      },
+      {
+        "id": "B",
+        "text": "Nhật đảo chính Pháp ở Đông Dương (9/3/1945)."
+      },
+      {
+        "id": "C",
+        "text": "Cách mạng tháng Tám thành công (1945)."
+      },
+      {
+        "id": "D",
+        "text": "Sau khi kí Hiệp định Giơnevơ (1954)."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120048,
+    "question": "Trong kháng chiến chống Pháp, Chủ tịch Hồ Chí Minh đã ra mặt trận để trực tiếp chỉ huy chiến dịch nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chiến dịch Việt Bắc thu – đông 1947."
+      },
+      {
+        "id": "B",
+        "text": "Chiến dịch Biên giới thu – đông 1950."
+      },
+      {
+        "id": "C",
+        "text": "Chiến cuộc Đông – Xuân 1953 – 1954."
+      },
+      {
+        "id": "D",
+        "text": "Chiến dịch Điện Biên Phủ 1954."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120049,
+    "question": "Di chúc của Chủ tịch Hồ Chí Minh là văn kiện lịch sử vô giá, kết tinh tư tưởng, đạo đức và phong cách của Người. Người bắt đầu viết Di chúc vào năm nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1954."
+      },
+      {
+        "id": "B",
+        "text": "1960."
+      },
+      {
+        "id": "C",
+        "text": "1965."
+      },
+      {
+        "id": "D",
+        "text": "1969."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120050,
+    "question": "Chủ tịch Hồ Chí Minh qua đời vào ngày, tháng, năm nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "19/5/1969."
+      },
+      {
+        "id": "B",
+        "text": "30/4/1975."
+      },
+      {
+        "id": "C",
+        "text": "02/9/1969."
+      },
+      {
+        "id": "D",
+        "text": "19/8/1945."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120051,
+    "question": "UNESCO đã ra Nghị quyết công nhận Chủ tịch Hồ Chí Minh là",
+    "options": [
+      {
+        "id": "A",
+        "text": "“Nhà hoạt động chính trị lỗi lạc của thế giới”."
+      },
+      {
+        "id": "B",
+        "text": "“Người chiến sĩ hòa bình vĩ đại”."
+      },
+      {
+        "id": "C",
+        "text": "“Anh hùng giải phóng dân tộc, nhà văn hóa kiệt xuất”."
+      },
+      {
+        "id": "D",
+        "text": "“Danh nhân văn hóa thế giới”."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120052,
+    "question": "Tên gọi Nguyễn Tất Thành được sử dụng trong giai đoạn nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Khi theo cha vào Huế và học ở trường Quốc học."
+      },
+      {
+        "id": "B",
+        "text": "Khi Người hoạt động ở Pháp."
+      },
+      {
+        "id": "C",
+        "text": "Khi Người hoạt động ở Liên Xô và Trung Quốc."
+      },
+      {
+        "id": "D",
+        "text": "Khi Người ở Pác Bó (Cao Bằng)."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120053,
+    "question": "Tại Pháp, Nguyễn Ái Quốc đã cùng các nhà yêu nước khác sáng lập tờ báo nào để tố cáo tội ác của chủ nghĩa thực dân?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Báo “Thanh niên”."
+      },
+      {
+        "id": "B",
+        "text": "Báo “Nhân đạo”."
+      },
+      {
+        "id": "C",
+        "text": "Báo “Đời sống công nhân”."
+      },
+      {
+        "id": "D",
+        "text": "Báo “Người cùng khổ”."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120054,
+    "question": "Tư tưởng cốt lõi xuyên suốt cuộc đời và sự nghiệp cách mạng của Hồ Chí Minh là gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Độc lập dân tộc gắn liền với chủ nghĩa xã hội."
+      },
+      {
+        "id": "B",
+        "text": "Đấu tranh giai cấp là nhiệm vụ hàng đầu."
+      },
+      {
+        "id": "C",
+        "text": "Cải cách ruộng đất cho nông dân."
+      },
+      {
+        "id": "D",
+        "text": "Hợp tác toàn diện với các nước tư bản."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120055,
+    "question": "Tại Đại hội Quốc dân Tân Trào (tháng 8/1945), Hồ Chí Minh đã được bầu giữ chức vụ gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tổng Bí thư của Đảng."
+      },
+      {
+        "id": "B",
+        "text": "Chủ tịch Ủy ban Dân tộc giải phóng Việt Nam (Chính phủ lâm thời)."
+      },
+      {
+        "id": "C",
+        "text": "Chủ tịch Mặt trận Việt Minh."
+      },
+      {
+        "id": "D",
+        "text": "Cố vấn tối cao của Chính phủ."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120056,
+    "question": "Tác phẩm “Nhật ký trong tù” được Hồ Chí Minh sáng tác trong hoàn cảnh nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Khi Người hoạt động ở Pháp."
+      },
+      {
+        "id": "B",
+        "text": "Khi bị chính quyền Tưởng Giới Thạch bắt giam ở Trung Quốc."
+      },
+      {
+        "id": "C",
+        "text": "Trong thời gian Người ở nhà tù Côn Đảo."
+      },
+      {
+        "id": "D",
+        "text": "Trong thời gian Người lãnh đạo ở Pác Bó."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120057,
+    "question": "Con đường cứu nước mà Hồ Chí Minh đã lựa chọn cho dân tộc Việt Nam là",
+    "options": [
+      {
+        "id": "A",
+        "text": "con đường dân chủ tư sản."
+      },
+      {
+        "id": "B",
+        "text": "con đường cải cách, duy tân."
+      },
+      {
+        "id": "C",
+        "text": "con đường cách mạng vô sản."
+      },
+      {
+        "id": "D",
+        "text": "con đường dựa vào Nhật Bản để đánh Pháp."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120058,
+    "question": "Năm 1919, với tên Nguyễn Ái Quốc, Người đã gửi văn kiện nào tới Hội nghị Vécxai?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tuyên ngôn Độc lập."
+      },
+      {
+        "id": "B",
+        "text": "Bản “Yêu sách của nhân dân An Nam”."
+      },
+      {
+        "id": "C",
+        "text": "Tuyên ngôn của Đảng Cộng sản."
+      },
+      {
+        "id": "D",
+        "text": "Bản án chế độ thực dân Pháp."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120059,
+    "question": "Trong Di chúc, điều mong muốn cuối cùng của Chủ tịch Hồ Chí Minh là gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Xây dựng một nước Việt Nam hòa bình, thống nhất, độc lập, dân chủ, giàu mạnh."
+      },
+      {
+        "id": "B",
+        "text": "Việt Nam trở thành một cường quốc quân sự."
+      },
+      {
+        "id": "C",
+        "text": "Nhanh chóng hoàn thành cách mạng ruộng đất."
+      },
+      {
+        "id": "D",
+        "text": "Xóa bỏ hoàn toàn các thành phần kinh tế tư nhân."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120060,
+    "question": "“Lấy dân làm gốc” là một trong những nội dung quan trọng của tư tưởng nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tư tưởng của Phan Bội Châu."
+      },
+      {
+        "id": "B",
+        "text": "Tư tưởng Hồ Chí Minh."
+      },
+      {
+        "id": "C",
+        "text": "Tư tưởng của Phan Châu Trinh."
+      },
+      {
+        "id": "D",
+        "text": "Tư tưởng Nho giáo."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120061,
+    "question": "Đâu là một biểu hiện của đạo đức, phong cách Hồ Chí Minh?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lối sống xa hoa, cầu kì."
+      },
+      {
+        "id": "B",
+        "text": "Lối sống giản dị, trong sáng, hết lòng vì dân, vì nước."
+      },
+      {
+        "id": "C",
+        "text": "Cách làm việc quan liêu, xa rời quần chúng."
+      },
+      {
+        "id": "D",
+        "text": "Tư tưởng gia trưởng, độc đoán."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120062,
+    "question": "Sự nghiệp của Hồ Chí Minh có ảnh hưởng như thế nào đối với phong trào cách mạng thế giới?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Không có ảnh hưởng nào đáng kể."
+      },
+      {
+        "id": "B",
+        "text": "Cổ vũ dân tộc bị áp bức đấu tranh giải phóng."
+      },
+      {
+        "id": "C",
+        "text": "Chỉ có ảnh hưởng đối với khu vực Đông Nam Á."
+      },
+      {
+        "id": "D",
+        "text": "Mở đầu cho sự sụp đổ của chủ nghĩa xã hội."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120063,
+    "question": "Tại Pác Bó (Cao Bằng), Nguyễn Ái Quốc đã trực tiếp sáng lập tờ báo nào để tuyên truyền đường lối của Việt Minh?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Báo “Thanh niên”."
+      },
+      {
+        "id": "B",
+        "text": "Báo “Cứu quốc”."
+      },
+      {
+        "id": "C",
+        "text": "Báo “Độc lập”."
+      },
+      {
+        "id": "D",
+        "text": "Báo “Việt Nam độc lập”."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120064,
+    "question": "Hội nghị Trung ương 8 (5/1941) do Nguyễn Ái Quốc chủ trì đã xác định nhiệm vụ hàng đầu của cách mạng Việt Nam là gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Đấu tranh đòi dân sinh, dân chủ."
+      },
+      {
+        "id": "B",
+        "text": "Đánh đổ địa chủ, chia ruộng đất cho dân cày."
+      },
+      {
+        "id": "C",
+        "text": "Giải phóng ách thống trị của Pháp – Nhật."
+      },
+      {
+        "id": "D",
+        "text": "Xây dựng chủ nghĩa xã hội."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120065,
+    "question": "“Đoàn kết, đoàn kết, đại đoàn kết. Thành công, thành công, đại thành công” là câu nói nổi tiếng của ai?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lê Duẩn."
+      },
+      {
+        "id": "B",
+        "text": "Hồ Chí Minh."
+      },
+      {
+        "id": "C",
+        "text": "Võ Nguyên Giáp."
+      },
+      {
+        "id": "D",
+        "text": "Trường Chinh."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120066,
+    "question": "Việc Hồ Chí Minh quyết định ký Hiệp định Sơ bộ (6/3/1946) với Pháp thể hiện tầm nhìn và sách lược gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nhân nhượng, từ bỏ độc lập."
+      },
+      {
+        "id": "B",
+        "text": "Thực hiện sách lược “hòa để tiến” nhằm tránh đối đầu nhiều kẻ thù."
+      },
+      {
+        "id": "C",
+        "text": "Hợp tác lâu dài với thực dân Pháp."
+      },
+      {
+        "id": "D",
+        "text": "Thể hiện sự non kém trong đấu tranh ngoại giao."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120067,
+    "question": "Toàn bộ cuộc đời và sự nghiệp của Hồ Chí Minh đều nhằm mục tiêu cao cả nhất là",
+    "options": [
+      {
+        "id": "A",
+        "text": "đấu tranh cho độc lập của Tổ quốc và tự do, hạnh phúc của nhân dân."
+      },
+      {
+        "id": "B",
+        "text": "trở thành một nhà lãnh đạo nổi tiếng thế giới."
+      },
+      {
+        "id": "C",
+        "text": "xây dựng Việt Nam thành một nước có nền kinh tế phát triển nhất châu Á."
+      },
+      {
+        "id": "D",
+        "text": "truyền bá tư tưởng của mình ra toàn thế giới."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120068,
+    "question": "Danh hiệu “Anh hùng giải phóng dân tộc” của Hồ Chí Minh do tổ chức quốc tế nào phong tặng?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Liên Hợp Quốc (UN)."
+      },
+      {
+        "id": "B",
+        "text": "Hiệp hội các quốcga Đông Nam Á (ASEAN)."
+      },
+      {
+        "id": "C",
+        "text": "Tổ chức Giáo dục, Khoa học và Văn hoá của Liên Hợp Quốc (UNESCO)."
+      },
+      {
+        "id": "D",
+        "text": "Hội đồng Hoà bình Thế giới."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120069,
+    "question": "Đâu là công lao to lớn đầu tiên của Nguyễn Ái Quốc đối với cách mạng Việt Nam?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lãnh đạo cuộc kháng chiến chống Pháp thắng lợi."
+      },
+      {
+        "id": "B",
+        "text": "Tìm ra con đường cứu nước đúng đắn cho dân tộc."
+      },
+      {
+        "id": "C",
+        "text": "Sáng lập ra nước Việt Nam Dân chủ Cộng hoà."
+      },
+      {
+        "id": "D",
+        "text": "Trực tiếp lãnh đạo Cách mạng tháng Tám thành công."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120070,
+    "question": "Con đường cứu nước mà Nguyễn Ái Quốc đã tìm thấy và lựa chọn cho dân tộc Việt Nam là",
+    "options": [
+      {
+        "id": "A",
+        "text": "con đường cách mạng dân chủ tư sản."
+      },
+      {
+        "id": "B",
+        "text": "con đường cải cách, duy tân đất nước."
+      },
+      {
+        "id": "C",
+        "text": "con đường bạo động của Phan Bội Châu."
+      },
+      {
+        "id": "D",
+        "text": "con đường cách mạng vô sản."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120071,
+    "question": "Nguyễn Ái Quốc đã chuẩn bị những yếu tố nào cho sự ra đời của Đảng Cộng sản Việt Nam?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chỉ chuẩn bị về lực lượng vũ trang."
+      },
+      {
+        "id": "B",
+        "text": "Chỉ chuẩn bị về căn cứ địa cách mạng."
+      },
+      {
+        "id": "C",
+        "text": "Chuẩn bị về chính trị, tư tưởng và tổ chức."
+      },
+      {
+        "id": "D",
+        "text": "Chỉ chuẩn bị về tài chính."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120072,
+    "question": "Vai trò của Nguyễn Ái Quốc tại Hội nghị thành lập Đảng Cộng sản Việt Nam (đầu năm 1930) là",
+    "options": [
+      {
+        "id": "A",
+        "text": "chủ trì hội nghị, thống nhất các tổ chức cộng sản."
+      },
+      {
+        "id": "B",
+        "text": "chỉ là đại biểu tham dự hội nghị."
+      },
+      {
+        "id": "C",
+        "text": "chỉ gửi thư chỉ đạo từ xa."
+      },
+      {
+        "id": "D",
+        "text": "là người được bầu làm Tổng Bí thư đầu tiên."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120073,
+    "question": "Ai là người sáng lập ra Mặt trận Việt Minh vào năm 1941?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Võ Nguyên Giáp."
+      },
+      {
+        "id": "B",
+        "text": "Trường Chinh."
+      },
+      {
+        "id": "C",
+        "text": "Hồ Chí Minh (Nguyễn Ái Quốc)."
+      },
+      {
+        "id": "D",
+        "text": "Phạm Văn Đồng."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120074,
+    "question": "Công lao của Hồ Chí Minh trong việc lãnh đạo Cách mạng tháng Tám năm 1945 là",
+    "options": [
+      {
+        "id": "A",
+        "text": "cùng Trung ương Đảng chớp đúng thời cơ, phát động Tổng khởi nghĩa."
+      },
+      {
+        "id": "B",
+        "text": "trực tiếp chỉ huy cuộc khởi nghĩa ở Hà Nội."
+      },
+      {
+        "id": "C",
+        "text": "kêu gọi sự giúp đỡ của quân Đồng minh."
+      },
+      {
+        "id": "D",
+        "text": "chỉ lãnh đạo về mặt tinh thần."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120075,
+    "question": "Văn kiện nào do Chủ tịch Hồ Chí Minh soạn thảo và công bố, đã khai sinh ra nước Việt Nam Dân chủ Cộng hoà?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lời kêu gọi toàn quốc kháng chiến."
+      },
+      {
+        "id": "B",
+        "text": "Di chúc."
+      },
+      {
+        "id": "C",
+        "text": "Tuyên ngôn Độc lập."
+      },
+      {
+        "id": "D",
+        "text": "Cương lĩnh chính trị đầu tiên của Đảng."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120076,
+    "question": "Trong cuộc kháng chiến chống thực dân Pháp (1945 – 1954), Hồ Chí Minh có vai trò là",
+    "options": [
+      {
+        "id": "A",
+        "text": "người đề ra đường lối và trực tiếp lãnh đạo cuộc kháng chiến."
+      },
+      {
+        "id": "B",
+        "text": "chỉ là Chủ tịch nước mang tính biểu tượng."
+      },
+      {
+        "id": "C",
+        "text": "chỉ phụ trách công tác đối ngoại."
+      },
+      {
+        "id": "D",
+        "text": "chỉ phụ trách công tác xây dựng hậu phương."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120077,
+    "question": "Trong cuộc kháng chiến chống Mĩ, cứu nước (1954 – 1975), Hồ Chí Minh cùng Trung ương Đảng đã lãnh đạo nhân dân thực hiện đồng thời hai nhiệm vụ chiến lược nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Xây dựng CNXH ở miền Bắc và giải phóng miền Nam."
+      },
+      {
+        "id": "B",
+        "text": "Cải cách ruộng đất ở miền Bắc và đấu tranh chính trị ở miền Nam."
+      },
+      {
+        "id": "C",
+        "text": "Công nghiệp hóa ở miền Bắc và đấu tranh vũ trang ở miền Nam."
+      },
+      {
+        "id": "D",
+        "text": "Đẩy mạnh đối ngoại ở cả hai miền."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120078,
+    "question": "Sự nghiệp cách mạng của Hồ Chí Minh đã góp phần vào phong trào cách mạng thế giới như thế nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cổ vũ các dân tộc thuộc địa đứng lên đấu tranh giải phóng."
+      },
+      {
+        "id": "B",
+        "text": "Mở đầu cho sự tan rã của hệ thống xã hội chủ nghĩa."
+      },
+      {
+        "id": "C",
+        "text": "Chỉ có ảnh hưởng trong khu vực Đông Nam Á."
+      },
+      {
+        "id": "D",
+        "text": "Quyết định thắng lợi của phe Đồng minh trong Chiến tranh thế giới thứ hai."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120079,
+    "question": "Danh hiệu “Nhà văn hóa kiệt xuất” được UNESCO trao tặng cho Hồ Chí Minh dựa trên cơ sở nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Người đã sáng tác nhiều tác phẩm văn học nổi tiếng."
+      },
+      {
+        "id": "B",
+        "text": "Những đóng góp quan trọng trong lĩnh vực văn hóa và giáo dục."
+      },
+      {
+        "id": "C",
+        "text": "Người đã đi nhiều nơi trên thế giới."
+      },
+      {
+        "id": "D",
+        "text": "Người có khả năng sử dụng nhiều ngoại ngữ."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120080,
+    "question": "Tác phẩm nào của Nguyễn Ái Quốc đã vạch trần bản chất của chủ nghĩa thực dân, góp phần thức tỉnh các dân tộc bị áp bức?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“Bản án chế độ thực dân Pháp”."
+      },
+      {
+        "id": "B",
+        "text": "“Nhật ký trong tù”."
+      },
+      {
+        "id": "C",
+        "text": "“Đường Kách mệnh”."
+      },
+      {
+        "id": "D",
+        "text": "“Con Rồng tre”."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120081,
+    "question": "Sự kết hợp giữa chủ nghĩa yêu nước với chủ nghĩa Mác – Lênin là cơ sở hình thành nên",
+    "options": [
+      {
+        "id": "A",
+        "text": "đường lối Đổi mới."
+      },
+      {
+        "id": "B",
+        "text": "tư tưởng Hồ Chí Minh."
+      },
+      {
+        "id": "C",
+        "text": "Cương lĩnh chính trị đầu tiên."
+      },
+      {
+        "id": "D",
+        "text": "đường lối kháng chiến chống Pháp."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120082,
+    "question": "Tư tưởng về đại đoàn kết toàn dân tộc của Hồ Chí Minh được thể hiện rõ nhất qua việc",
+    "options": [
+      {
+        "id": "A",
+        "text": "thành lập Đảng Cộng sản Việt Nam."
+      },
+      {
+        "id": "B",
+        "text": "chủ trương thành lập các Mặt trận dân tộc thống nhất."
+      },
+      {
+        "id": "C",
+        "text": "thực hiện cải cách ruộng đất."
+      },
+      {
+        "id": "D",
+        "text": "xây dựng lực lượng vũ trang nhân dân."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120083,
+    "question": "Theo Hồ Chí Minh, mục tiêu cuối cùng của cách mạng là gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Giành được chính quyền."
+      },
+      {
+        "id": "B",
+        "text": "Đánh đổ địa chủ phong kiến."
+      },
+      {
+        "id": "C",
+        "text": "Đem lại độc lập, tự do, hạnh phúc cho nhân dân."
+      },
+      {
+        "id": "D",
+        "text": "Xây dựng một quân đội hùng mạnh."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120084,
+    "question": "Đóng góp lớn nhất của Hồ Chí Minh với tư cách là Anh hùng giải phóng dân tộc là",
+    "options": [
+      {
+        "id": "A",
+        "text": "lãnh đạo nhân dân đấu tranh thắng lợi, giành lại độc lập cho Tổ quốc."
+      },
+      {
+        "id": "B",
+        "text": "đã đi nhiều nơi trên thế giới."
+      },
+      {
+        "id": "C",
+        "text": "đã viết nhiều bài báo tố cáo chủ nghĩa thực dân."
+      },
+      {
+        "id": "D",
+        "text": "đã thiết lập quan hệ ngoại giao với nhiều nước."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120085,
+    "question": "Một trong những biểu hiện của nhà văn hóa Hồ Chí Minh là",
+    "options": [
+      {
+        "id": "A",
+        "text": "sự am hiểu, tôn trọng các nền văn hóa khác nhau trên thế giới."
+      },
+      {
+        "id": "B",
+        "text": "chỉ đề cao văn hóa phương Đông."
+      },
+      {
+        "id": "C",
+        "text": "chỉ đề cao văn hóa phương Tây."
+      },
+      {
+        "id": "D",
+        "text": "bài trừ tất cả các nền văn hóa nước ngoài."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120086,
+    "question": "Ai là người đã đưa ra định nghĩa “Văn hóa là sự tổng hợp của mọi phương thức sinh hoạt cùng với biểu hiện của nó mà loài người đã sản sinh ra nhằm thích ứng những nhu cầu đời sống và đòi hỏi của sự sinh tồn”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Trường Chinh."
+      },
+      {
+        "id": "B",
+        "text": "Hồ Chí Minh."
+      },
+      {
+        "id": "C",
+        "text": "Lê Duẩn."
+      },
+      {
+        "id": "D",
+        "text": "Phạm Văn Đồng."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120087,
+    "question": "“Không có gì quý hơn độc lập, tự do” là chân lí được Hồ Chí Minh đúc kết trong thời kì nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kháng chiến chống thực dân Pháp."
+      },
+      {
+        "id": "B",
+        "text": "Kháng chiến chống Mĩ, cứu nước."
+      },
+      {
+        "id": "C",
+        "text": "Thời kì tìm đường cứu nước."
+      },
+      {
+        "id": "D",
+        "text": "Thời kì xây dựng đất nước sau 1975."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120088,
+    "question": "Hồ Chí Minh được xem là biểu tượng của",
+    "options": [
+      {
+        "id": "A",
+        "text": "sự kết hợp giữa văn hóa và chính trị."
+      },
+      {
+        "id": "B",
+        "text": "khát vọng hòa bình và độc lập dân tộc của nhân loại."
+      },
+      {
+        "id": "C",
+        "text": "sự thành công của con đường cách mạng tư sản."
+      },
+      {
+        "id": "D",
+        "text": "sự đấu tranh của giai cấp công nhân ở các nước tư bản."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120089,
+    "question": "Tác phẩm “Đường Kách mệnh” của Nguyễn Ái Quốc có vai trò gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Trang bị lý luận về con đường cách mạng giải phóng dân tộc."
+      },
+      {
+        "id": "B",
+        "text": "Kêu gọi nhân dân đứng lên khởi nghĩa vũ trang."
+      },
+      {
+        "id": "C",
+        "text": "Phê phán con đường cứu nước của các sĩ phu yêu nước."
+      },
+      {
+        "id": "D",
+        "text": "Là cương lĩnh chính trị đầu tiên của Đảng."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120090,
+    "question": "Trong Di chúc, Hồ Chí Minh căn dặn Đảng phải chăm lo cho vấn đề gì đầu tiên?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Phát triển kinh tế."
+      },
+      {
+        "id": "B",
+        "text": "Công việc đối với con người."
+      },
+      {
+        "id": "C",
+        "text": "Mở rộng quan hệ đối ngoại."
+      },
+      {
+        "id": "D",
+        "text": "Xây dựng quân đội."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120091,
+    "question": "Hồ Chí Minh đã kế thừa và phát huy giá trị văn hóa nào của dân tộc?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chủ nghĩa yêu nước và tinh thần nhân ái."
+      },
+      {
+        "id": "B",
+        "text": "Tư tưởng “trung quân ái quốc” của chế độ phong kiến."
+      },
+      {
+        "id": "C",
+        "text": "Lối sống hưởng thụ, an nhàn."
+      },
+      {
+        "id": "D",
+        "text": "Tư tưởng gia trưởng, độc đoán."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120092,
+    "question": "Sự nghiệp giải phóng dân tộc của Hồ Chí Minh đã chứng minh điều gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Một dân tộc nhỏ bé vẫn có thể đánh bại các thế lực đế quốc."
+      },
+      {
+        "id": "B",
+        "text": "Cách mạng chỉ có thể thành công khi có sự giúp đỡ của bên ngoài."
+      },
+      {
+        "id": "C",
+        "text": "Con đường đấu tranh hòa bình là con đường duy nhất đúng."
+      },
+      {
+        "id": "D",
+        "text": "Chỉ có đấu tranh vũ trang mới giành được thắng lợi."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120093,
+    "question": "“Xây dựng một xã hội học tập” là một trong những tư tưởng tiến bộ về lĩnh vực nào của Hồ Chí Minh?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kinh tế."
+      },
+      {
+        "id": "B",
+        "text": "Giáo dục."
+      },
+      {
+        "id": "C",
+        "text": "Quân sự."
+      },
+      {
+        "id": "D",
+        "text": "Chính trị."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120094,
+    "question": "Hồ Chí Minh đã tiếp thu những giá trị văn hóa nào của phương Tây?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chỉ tiếp thu văn hóa Pháp."
+      },
+      {
+        "id": "B",
+        "text": "Chỉ tiếp thu chủ nghĩa quân phiệt."
+      },
+      {
+        "id": "C",
+        "text": "Tư tưởng dân chủ, tự do, bác ái, quyền con người."
+      },
+      {
+        "id": "D",
+        "text": "Lối sống thực dụng của chủ nghĩa tư bản."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120095,
+    "question": "Việc đặt nhiệm vụ giải phóng dân tộc lên trên nhiệm vụ giai cấp trong Cương lĩnh chính trị đầu tiên (1930) thể hiện",
+    "options": [
+      {
+        "id": "A",
+        "text": "sự vận dụng sáng tạo chủ nghĩa Mác – Lênin vào hoàn cảnh Việt Nam."
+      },
+      {
+        "id": "B",
+        "text": "sự hạ thấp vai trò của giai cấp công nhân."
+      },
+      {
+        "id": "C",
+        "text": "sự nhượng bộ đối với giai cấp tư sản."
+      },
+      {
+        "id": "D",
+        "text": "sự non kém về lý luận chính trị."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120096,
+    "question": "Lý do chính để UNESCO vinh danh Hồ Chí Minh là",
+    "options": [
+      {
+        "id": "A",
+        "text": "vì Người là Chủ tịch của một nước đã chiến thắng đế quốc Mĩ."
+      },
+      {
+        "id": "B",
+        "text": "vì Người là một nhà thơ lớn."
+      },
+      {
+        "id": "C",
+        "text": "vì Người là hiện thân cho khát vọng của các dân tộc về bản sắc văn hóa."
+      },
+      {
+        "id": "D",
+        "text": "vì Người đã đi nhiều nơi trên thế giới."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120097,
+    "question": "Ý nghĩa lớn nhất từ cuộc đời và sự nghiệp của Hồ Chí Minh đối với thế hệ trẻ Việt Nam là",
+    "options": [
+      {
+        "id": "A",
+        "text": "tấm gương về đạo đức, nghị lực và khát vọng cống hiến cho Tổ quốc."
+      },
+      {
+        "id": "B",
+        "text": "bài học về cách làm giàu nhanh chóng."
+      },
+      {
+        "id": "C",
+        "text": "kinh nghiệm để trở thành một nhà lãnh đạo chính trị."
+      },
+      {
+        "id": "D",
+        "text": "bài học về việc đi du lịch khắp thế giới."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120098,
+    "question": "Năm 1987, Tổ chức Giáo dục, Khoa học và Văn hoá của Liên Hợp Quốc (UNESCO) đã ra Nghị quyết vinh danh Chủ tịch Hồ Chí Minh là",
+    "options": [
+      {
+        "id": "A",
+        "text": "“Nhà hoạt động chính trị lỗi lạc của thế kỉ XX”."
+      },
+      {
+        "id": "B",
+        "text": "“Anh hùng giải phóng dân tộc và Nhà văn hoá kiệt xuất”."
+      },
+      {
+        "id": "C",
+        "text": "“Chiến sĩ hoà bình vĩ đại và biểu tượng của thời đại”."
+      },
+      {
+        "id": "D",
+        "text": "“Lãnh tụ vĩ đại của giai cấp công nhân quốc tế”."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120099,
+    "question": "Đối với các dân tộc thuộc địa trên thế giới, cuộc đời và sự nghiệp của Hồ Chí Minh là",
+    "options": [
+      {
+        "id": "A",
+        "text": "một tấm gương về làm kinh tế giỏi và hội nhập."
+      },
+      {
+        "id": "B",
+        "text": "một bài học về đấu tranh nghị trường và ngoại giao."
+      },
+      {
+        "id": "C",
+        "text": "nguồn cổ vũ cho cuộc đấu tranh giành độc lập, tự do."
+      },
+      {
+        "id": "D",
+        "text": "một ví dụ về con đường cải cách xã hội ôn hòa."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120100,
+    "question": "Câu nói nổi tiếng “Vì Việt Nam, Cuba sẵn sàng hiến dâng cả máu của mình” là của nhà lãnh đạo nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Che Guevara."
+      },
+      {
+        "id": "B",
+        "text": "Fidel Castro."
+      },
+      {
+        "id": "C",
+        "text": "Nelson Mandela."
+      },
+      {
+        "id": "D",
+        "text": "Jawaharlal Nehru."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120101,
+    "question": "Tại Việt Nam, thành phố nào đã vinh dự được mang tên Người?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hà Nội."
+      },
+      {
+        "id": "B",
+        "text": "Huế."
+      },
+      {
+        "id": "C",
+        "text": "Đà Nẵng."
+      },
+      {
+        "id": "D",
+        "text": "Thành phố Hồ Chí Minh."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120102,
+    "question": "Phong trào nào được Đảng và Nhà nước Việt Nam phát động sâu rộng trong toàn xã hội để noi theo tấm gương của Người?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Phong trào “Ba sẵn sàng” trong thanh niên."
+      },
+      {
+        "id": "B",
+        "text": "Phong trào thi đua “Hai tốt” trong giáo dục."
+      },
+      {
+        "id": "C",
+        "text": "Phong trào thi đua “Xóa đói giảm nghèo”."
+      },
+      {
+        "id": "D",
+        "text": "Cuộc vận động “Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh”."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120103,
+    "question": "Công trình kiến trúc nào thể hiện sâu sắc tình cảm, sự biết ơn của nhân dân Việt Nam đối với Chủ tịch Hồ Chí Minh?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nhà hát Lớn Hà Nội."
+      },
+      {
+        "id": "B",
+        "text": "Lăng Chủ tịch Hồ Chí Minh."
+      },
+      {
+        "id": "C",
+        "text": "Bảo tàng Lịch sử Quốc gia."
+      },
+      {
+        "id": "D",
+        "text": "Dinh Độc Lập."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120104,
+    "question": "Tên tuổi của Hồ Chí Minh đã trở thành biểu tượng cho",
+    "options": [
+      {
+        "id": "A",
+        "text": "khát vọng độc lập, tự do của các dân tộc."
+      },
+      {
+        "id": "B",
+        "text": "sự thành công của chủ nghĩa tư bản hiện đại."
+      },
+      {
+        "id": "C",
+        "text": "cuộc đấu tranh giai cấp ở các nước châu Âu."
+      },
+      {
+        "id": "D",
+        "text": "xu thế toàn cầu hóa kinh tế và văn hóa."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120105,
+    "question": "Tại Pháp, một công viên và bảo tàng sống về Chủ tịch Hồ Chí Minh đã được xây dựng ở thành phố nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pari."
+      },
+      {
+        "id": "B",
+        "text": "Lyon."
+      },
+      {
+        "id": "C",
+        "text": "Montreuil."
+      },
+      {
+        "id": "D",
+        "text": "Marseille."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120106,
+    "question": "Đối với nhân dân các nước châu Phi, Hồ Chí Minh được xem là",
+    "options": [
+      {
+        "id": "A",
+        "text": "một nhà thơ lớn của văn học phương Đông."
+      },
+      {
+        "id": "B",
+        "text": "người thầy, người mở đường cho cuộc đấu tranh chống thực dân."
+      },
+      {
+        "id": "C",
+        "text": "một nhà cải cách kinh tế theo mô hình thị trường."
+      },
+      {
+        "id": "D",
+        "text": "một nhà hoạt động vì môi trường và biến đổi khí hậu."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120107,
+    "question": "Tư tưởng cốt lõi, di sản quý báu nhất mà Hồ Chí Minh để lại cho dân tộc Việt Nam là",
+    "options": [
+      {
+        "id": "A",
+        "text": "hệ thống các nhà máy, xí nghiệp hiện đại."
+      },
+      {
+        "id": "B",
+        "text": "hệ thống quan điểm toàn diện về con đường cách mạng Việt Nam."
+      },
+      {
+        "id": "C",
+        "text": "các tác phẩm văn học, nghệ thuật có giá trị cao."
+      },
+      {
+        "id": "D",
+        "text": "kho tàng kinh nghiệm về sản xuất nông nghiệp."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120108,
+    "question": "Nhiều quốc gia trên thế giới đã thể hiện sự ngưỡng mộ đối với Chủ tịch Hồ Chí Minh bằng cách nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dựng tượng đài, đặt tên đường phố, trường học theo tên Người."
+      },
+      {
+        "id": "B",
+        "text": "Áp dụng nguyên vẹn mô hình kinh tế của Việt Nam thời bao cấp."
+      },
+      {
+        "id": "C",
+        "text": "Chỉ dịch các tác phẩm văn học của Người ra tiếng nước mình."
+      },
+      {
+        "id": "D",
+        "text": "Gửi các phái đoàn sang Việt Nam học tập về quân sự."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120109,
+    "question": "Dấu ấn Hồ Chí Minh trong lòng nhân dân Việt Nam được thể hiện sâu sắc nhất ở đâu?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Trong các bộ phim tài liệu lịch sử."
+      },
+      {
+        "id": "B",
+        "text": "Trong tình cảm kính yêu và niềm tin vào con đường Người đã chọn."
+      },
+      {
+        "id": "C",
+        "text": "Trong các hiện vật tại viện bảo tàng."
+      },
+      {
+        "id": "D",
+        "text": "Trong các tác phẩm điêu khắc nghệ thuật."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120110,
+    "question": "Thủ tướng Ấn Độ Nê-ru đã gọi Hồ Chí Minh là",
+    "options": [
+      {
+        "id": "A",
+        "text": "một trong những nhân vật vĩ đại nhất của thời đại."
+      },
+      {
+        "id": "B",
+        "text": "người bạn lớn nhất của nhân dân Ấn Độ."
+      },
+      {
+        "id": "C",
+        "text": "vị lãnh tụ tinh thần của các dân tộc châu Á."
+      },
+      {
+        "id": "D",
+        "text": "một nhà hiền triết vĩ đại của phương Đông."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120111,
+    "question": "Di sản văn hóa Hồ Chí Minh bao gồm những gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tư tưởng, đạo đức, phong cách và các tác phẩm văn hóa nghệ thuật."
+      },
+      {
+        "id": "B",
+        "text": "Chỉ bao gồm các bài viết đăng trên báo chí cách mạng."
+      },
+      {
+        "id": "C",
+        "text": "Chỉ bao gồm những vần thơ trong tác phẩm “Nhật ký trong tù”."
+      },
+      {
+        "id": "D",
+        "text": "Chỉ bao gồm các công trình kiến trúc do Người chỉ đạo thiết kế."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120112,
+    "question": "Đối với Đảng Cộng sản Việt Nam, tư tưởng Hồ Chí Minh có vai trò là",
+    "options": [
+      {
+        "id": "A",
+        "text": "nền tảng tư tưởng, kim chỉ nam cho mọi hành động."
+      },
+      {
+        "id": "B",
+        "text": "một trong nhiều yếu tố để tham khảo khi cần thiết."
+      },
+      {
+        "id": "C",
+        "text": "một học thuyết chỉ có giá trị trong quá khứ."
+      },
+      {
+        "id": "D",
+        "text": "chỉ có giá trị trong thời kì kháng chiến cứu nước."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120113,
+    "question": "Chân lý “Không có gì quý hơn độc lập, tự do” của Hồ Chí Minh có giá trị đối với",
+    "options": [
+      {
+        "id": "A",
+        "text": "chỉ riêng dân tộc Việt Nam trong thế kỉ XX."
+      },
+      {
+        "id": "B",
+        "text": "chỉ các quốc gia trong khu vực Đông Nam Á."
+      },
+      {
+        "id": "C",
+        "text": "tất cả các dân tộc đang đấu tranh cho hòa bình, độc lập."
+      },
+      {
+        "id": "D",
+        "text": "chỉ các nước đang theo con đường xã hội chủ nghĩa."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120114,
+    "question": "Nhiều nhà nghiên cứu trên thế giới đã tìm hiểu về Hồ Chí Minh ở những phương diện nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chỉ quan tâm đến đời sống cá nhân và gia đình của Người."
+      },
+      {
+        "id": "B",
+        "text": "Cả với tư cách là nhà tư tưởng, nhà cách mạng và nhà văn hóa."
+      },
+      {
+        "id": "C",
+        "text": "Chỉ quan tâm đến các chiến dịch quân sự do Người chỉ đạo."
+      },
+      {
+        "id": "D",
+        "text": "Chỉ quan tâm đến các bài phát biểu tại các hội nghị quốc tế."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120115,
+    "question": "Một trong những biểu hiện rõ nét về dấu ấn đạo đức Hồ Chí Minh trong lòng nhân dân là",
+    "options": [
+      {
+        "id": "A",
+        "text": "lối sống giản dị, khiêm tốn, gần gũi với quần chúng."
+      },
+      {
+        "id": "B",
+        "text": "cách nói chuyện cầu kì, sử dụng nhiều từ ngữ phức tạp."
+      },
+      {
+        "id": "C",
+        "text": "việc luôn giữ khoảng cách nhất định với nhân dân."
+      },
+      {
+        "id": "D",
+        "text": "phong cách sống hưởng thụ và đề cao vật chất."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120116,
+    "question": "Nhiều quốc gia ở châu Mỹ Latinh đã coi Hồ Chí Minh là",
+    "options": [
+      {
+        "id": "A",
+        "text": "ngọn cờ đầu trong cuộc đấu tranh chống chủ nghĩa đế quốc."
+      },
+      {
+        "id": "B",
+        "text": "một nhà kinh tế tài ba với nhiều lý thuyết đột phá."
+      },
+      {
+        "id": "C",
+        "text": "một nhà ngoại giao xuất sắc trong đàm phán đa phương."
+      },
+      {
+        "id": "D",
+        "text": "một tấm gương về hợp tác quốc tế trong lĩnh vực kinh tế."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120117,
+    "question": "Di chúc của Chủ tịch Hồ Chí Minh được xem là",
+    "options": [
+      {
+        "id": "A",
+        "text": "bản tổng kết cuộc đời cách mạng và là lời dặn dò cho thế hệ sau."
+      },
+      {
+        "id": "B",
+        "text": "một tác phẩm văn học lãng mạn thuần túy."
+      },
+      {
+        "id": "C",
+        "text": "một văn kiện chỉ có giá trị tham khảo về lịch sử."
+      },
+      {
+        "id": "D",
+        "text": "một kế hoạch phát triển kinh tế – xã hội chi tiết."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120118,
+    "question": "Hình ảnh Chủ tịch Hồ Chí Minh thường được bạn bè quốc tế nhắc đến với những phẩm chất nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cứng rắn, quyết liệt và không khoan nhượng."
+      },
+      {
+        "id": "B",
+        "text": "Giản dị, nhân ái, khiêm tốn và trí tuệ."
+      },
+      {
+        "id": "C",
+        "text": "Lạnh lùng, xa cách và khó tiếp cận."
+      },
+      {
+        "id": "D",
+        "text": "Cầu kì, kiểu cách trong giao tiếp ngoại giao."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120119,
+    "question": "Tại sao tư tưởng Hồ Chí Minh có sức sống mãnh liệt và giá trị trường tồn?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Vì đã dẫn dắt cách mạng đến thắng lợi và soi đường cho tương lai."
+      },
+      {
+        "id": "B",
+        "text": "Vì được tất cả các nước trên thế giới áp dụng làm theo."
+      },
+      {
+        "id": "C",
+        "text": "Vì đó là một học thuyết bất biến, không bao giờ thay đổi."
+      },
+      {
+        "id": "D",
+        "text": "Vì được truyền bá rộng rãi qua nhiều phương tiện truyền thông."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120120,
+    "question": "Tình cảm của nhân dân thế giới đối với Hồ Chí Minh thể hiện rõ nhất qua",
+    "options": [
+      {
+        "id": "A",
+        "text": "các phong trào đoàn kết, ủng hộ cuộc kháng chiến của Việt Nam."
+      },
+      {
+        "id": "B",
+        "text": "các hiệp định thương mại được ký kết với Việt Nam."
+      },
+      {
+        "id": "C",
+        "text": "các chuyến thăm hữu nghị của các nhà lãnh đạo."
+      },
+      {
+        "id": "D",
+        "text": "các khoản viện trợ kinh tế không hoàn lại."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120121,
+    "question": "Trong lòng người dân Việt Nam, Hồ Chí Minh không chỉ là một vị lãnh tụ mà còn được coi là",
+    "options": [
+      {
+        "id": "A",
+        "text": "một vị tướng tài ba nhất trong lịch sử."
+      },
+      {
+        "id": "B",
+        "text": "một nhà ngoại giao xuất sắc nhất mọi thời đại."
+      },
+      {
+        "id": "C",
+        "text": "một người cha già kính yêu của dân tộc."
+      },
+      {
+        "id": "D",
+        "text": "một nhà văn hóa lớn nhất của đất nước."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120122,
+    "question": "Sự nghiệp của Hồ Chí Minh đã chứng minh một chân lý của thời đại, đó là",
+    "options": [
+      {
+        "id": "A",
+        "text": "các dân tộc thuộc địa có khả năng tự giải phóng mình."
+      },
+      {
+        "id": "B",
+        "text": "cách mạng chỉ thành công ở các nước tư bản phát triển."
+      },
+      {
+        "id": "C",
+        "text": "đấu tranh vũ trang là con đường duy nhất để thắng lợi."
+      },
+      {
+        "id": "D",
+        "text": "các nước nhỏ không thể nào chống lại các nước lớn."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120123,
+    "question": "Dấu ấn Hồ Chí Minh còn được thể hiện qua việc Việt Nam kiên trì theo đuổi đường lối đối ngoại nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hòa bình, hữu nghị, hợp tác và phát triển."
+      },
+      {
+        "id": "B",
+        "text": "Gây chiến, đối đầu và tạo ra căng thẳng."
+      },
+      {
+        "id": "C",
+        "text": "Đóng cửa, thực hiện chính sách tự cung tự cấp."
+      },
+      {
+        "id": "D",
+        "text": "Chỉ quan hệ và hợp tác với các nước lớn."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120124,
+    "question": "“Cả cuộc đời Người là một chuỗi ngày lao động không mệt mỏi vì đất nước, vì nhân dân”. Nhận định này nói lên đức tính gì của Hồ Chí Minh?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tinh thần cống hiến, hi sinh quên mình."
+      },
+      {
+        "id": "B",
+        "text": "Tinh thần lạc quan, yêu đời trong mọi hoàn cảnh."
+      },
+      {
+        "id": "C",
+        "text": "Tinh thần ham học hỏi, không ngừng vươn lên."
+      },
+      {
+        "id": "D",
+        "text": "Tính cách giản dị, khiêm tốn trong đời sống."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120125,
+    "question": "Việc nghiên cứu, học tập tư tưởng Hồ Chí Minh ở Việt Nam hiện nay nhằm mục đích chính là",
+    "options": [
+      {
+        "id": "A",
+        "text": "vận dụng vào thực tiễn xây dựng và bảo vệ Tổ quốc."
+      },
+      {
+        "id": "B",
+        "text": "để biết thêm về các sự kiện lịch sử của đất nước."
+      },
+      {
+        "id": "C",
+        "text": "để chuẩn bị cho các kỳ thi và kiểm tra kiến thức."
+      },
+      {
+        "id": "D",
+        "text": "để so sánh với các học thuyết, tư tưởng khác."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120126,
+    "question": "Dấu ấn của Người trong lòng nhân dân thế giới còn thể hiện qua việc",
+    "options": [
+      {
+        "id": "A",
+        "text": "tên Người được đặt cho nhiều giải thưởng hòa bình."
+      },
+      {
+        "id": "B",
+        "text": "nhiều bộ phim Hollywood được làm về cuộc đời Người."
+      },
+      {
+        "id": "C",
+        "text": "nhiều công ty lớn trên thế giới lấy tên của Người."
+      },
+      {
+        "id": "D",
+        "text": "nhiều món ăn nổi tiếng được đặt theo tên Người."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120127,
+    "question": "Tóm lại, dấu ấn sâu đậm nhất mà Hồ Chí Minh để lại trong lòng nhân dân Việt Nam và thế giới là",
+    "options": [
+      {
+        "id": "A",
+        "text": "hình ảnh một lãnh tụ vĩ đại nhưng vô cùng giản dị, nhân ái."
+      },
+      {
+        "id": "B",
+        "text": "khối lượng tác phẩm đồ sộ mà Người đã để lại cho hậu thế."
+      },
+      {
+        "id": "C",
+        "text": "những chuyến đi của Người đến khắp các châu lục trên thế giới."
+      },
+      {
+        "id": "D",
+        "text": "những chức vụ quan trọng mà Người đã từng nắm giữ."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120128,
+    "question": "Trong số các nước sau, nước nào không thuộc khu vực Đông Bắc Á ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Trung Quốc, Nhật Bản."
+      },
+      {
+        "id": "B",
+        "text": "Hàn Quốc, Đài Loan."
+      },
+      {
+        "id": "C",
+        "text": "Cộng hòa dân chủ nhân dân Triều Tiên, Nhật Bản."
+      },
+      {
+        "id": "D",
+        "text": "Ápganixtan, Nêpan."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120129,
+    "question": "Tình hình chung của khu vực Đông Bắc Á trong nửa sau thế kỉ XX là:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Các nước Đông Bắc Á tập trung tiến hành cuộc đấu tranh chống chủ nghĩa thực dân, giành độc lập dân tộc, thống nhất đất nước."
+      },
+      {
+        "id": "B",
+        "text": "Các nước ở khu vực Đông Bắc Á bắt tay xây dựng và phát triển nền kinh tế và đã đạt được những thành tựu quan trọng, bộ mặt đất nước được đổi mới."
+      },
+      {
+        "id": "C",
+        "text": "Trừ Nhật Bản, các nước Đông Bắc Á khác đều nằm trong tình trạng kinh tế thấp kém, chính trị bất ổn định."
+      },
+      {
+        "id": "D",
+        "text": "Trừ Nhật Bản, các nước Đông Bắc Á khác đều lựa chọn con đường đi lên Chủ nghĩa xã hội và đã đạt được những thành tựu to lớn."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120130,
+    "question": "Từ sau Chiến tranh thế giới thứ I đến năm 1949, ở Trung Quốc đã xảy ra bao nhiêu cuộc nội chiến ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1"
+      },
+      {
+        "id": "B",
+        "text": "2"
+      },
+      {
+        "id": "C",
+        "text": "3"
+      },
+      {
+        "id": "D",
+        "text": "4"
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120131,
+    "question": "Nước Cộng hoà Nhân dân Trung Hoa được thành lập vào thời gian nào ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1/8/1949"
+      },
+      {
+        "id": "B",
+        "text": "1/9/1948"
+      },
+      {
+        "id": "C",
+        "text": "1/10/1949"
+      },
+      {
+        "id": "D",
+        "text": "10/1/1949"
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120132,
+    "question": "Thắng lợi của cách mạng Trung Quốc năm 1949 có ý nghĩa như thế nào ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cách mạng dân tộc dân chủ của nhân dân Trung Quốc dã hoàn thành, kỉ nguyên độc lập tự do, xây dựng chủ nghĩa xã hội đã bắt đầu."
+      },
+      {
+        "id": "B",
+        "text": "Thắng lợi của cách mạng Trung Quốc đã làm cho ảnh hưởng của chủ nghĩa xã hội lan rộng khắp toàn cầu."
+      },
+      {
+        "id": "C",
+        "text": "Trung Quốc đã hoàn thành cách mạng Xã hội chủ nghĩa, kỉ nguyên xây dựng chủ nghĩa Cộng sản đã bằt đầu."
+      },
+      {
+        "id": "D",
+        "text": "Cách mạng đã lật đổ chế độ phong kiến, mở đường cho sự phát triển của tư tưởng dân chủ tư sản trên khắp toàn Trung Quốc."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120133,
+    "question": "Cuộc nội chiến (1946 - 1949) ở Trung Quốc trải qua mấy giai đoạn ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2"
+      },
+      {
+        "id": "B",
+        "text": "3"
+      },
+      {
+        "id": "C",
+        "text": "4"
+      },
+      {
+        "id": "D",
+        "text": "5"
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120134,
+    "question": "Điểm nổi bật của ngoại giao Trung Quốc trong những năm 1949 - 1959 ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Trung Quốc thi hành chính sách ngoại giao trung lập, tích cực."
+      },
+      {
+        "id": "B",
+        "text": "Trung Quốc thi hành chính sách đối ngoại thân Mĩ, đồng thời tích cực ủng hộ phong trào đấu tranh giành độc lập dân tộc của các nước thuộc địa."
+      },
+      {
+        "id": "C",
+        "text": "Quan hệ Trung Quốc với hai nước Ấn Độ, Liên Xô hết sức căng thẳng."
+      },
+      {
+        "id": "D",
+        "text": "Trung Quốc thi hành chính sách ngoại giao tích cực, góp phần củng cố hoà bình, thúc đẩy sự phát triển của phong hào cách mạng thế giới."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120135,
+    "question": "Nước Cộng hoà Nhân dân Trung Hoa chính thức thiết lập quan hê ngoại giao với Việt Nam vào thời gian nào ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "18/1/1951"
+      },
+      {
+        "id": "B",
+        "text": "18/11/1951"
+      },
+      {
+        "id": "C",
+        "text": " 11/8/1951"
+      },
+      {
+        "id": "D",
+        "text": "18/1/1950"
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120136,
+    "question": "Nét nổi bật trong quan hệ đối ngoại giữa Trung Quốc với Liên Xô trong những năm 1959 - 1978 ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Liên Xô - Trung Quốc hợp tác hữu nghị, đoàn kết chặt chẽ, thống nhất cao trong việc giải quyết những vấn đề chung của thế giới."
+      },
+      {
+        "id": "B",
+        "text": "Liên Xô vẫn giúp đỡ Trung Quốc về vốn, khoa học - kĩ thuật, phát triển kinh tế, tuy nhiên giữa hai nước đã bắt đầu xuất hiện những bất đổng, mâu thuẫn về đường lối xây dựng Chủ nghĩa xã hội."
+      },
+      {
+        "id": "C",
+        "text": "Mâu thuẫn Liên Xô - Trung Quốc ngày càng sâu sắc. Các cuộc xung đột quân sự đã diễn ra ở vùng biên giới hai nước."
+      },
+      {
+        "id": "D",
+        "text": "Trung Quốc tìm mọi cách để khôi phục lại mối quan hệ hợp tác hữu nghị với Liên Xô."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120137,
+    "question": "Việt Nam đạt được thành tựu nào sau đây trong hội nhập quốc tế vào năm 1995?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tham gia Công ước Luật biển của Liên hợp quốc."
+      },
+      {
+        "id": "B",
+        "text": "Trở thành thành viên của Tổ chức Thương mại Thế giới."
+      },
+      {
+        "id": "C",
+        "text": "Gia nhập Hội đồng tương trợ kinh tế."
+      },
+      {
+        "id": "D",
+        "text": "Gia nhập Hiệp hội các quốc gia Đông Nam Á."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120138,
+    "question": "Cuộc kháng chiến chống Mỹ, cứu nước (1954 – 1975) của nhân dân Việt Nam đã để lại bài học",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cần thống nhất về tổ chức của các mặt trận nhân dân thế giới ủng hộ Việt Nam."
+      },
+      {
+        "id": "B",
+        "text": "Tăng cường vai trò lãnh đạo của Đảng Cộng sản Việt Nam trong kỉ nguyên mới."
+      },
+      {
+        "id": "C",
+        "text": "Duy trì, phát triển mối quan hệ liên minh phòng thủ với các nước Đông Dương."
+      },
+      {
+        "id": "D",
+        "text": "Kết hợp hài hòa, thường xuyên giữa đấu tranh chính trị với đấu tranh quân sự."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120139,
+    "question": "Thắng lợi của Cách mạng tháng Mười Nga (1917) là một trong những yếu tố dẫn đến sự thành lập",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ai Cập. B. Phần Lan. C. Tây Ban Nha. D. Liên Xô."
+      },
+      {
+        "id": "A",
+        "text": "Lê Thánh Tông. B. Minh Mạng. C. Ngô Quyền. D. Lý Thái Tổ."
+      },
+      {
+        "id": "A",
+        "text": "Bắt đầu xây dựng và hoàn thiện nhà nước pháp quyền xã hội chủ nghĩa."
+      },
+      {
+        "id": "B",
+        "text": "Tiếp tục phát triển kinh tế thị trường định hướng xã hội chủ nghĩa."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120140,
+    "question": "Nhận định nào sau đây là đúng về quá trình hội nhập quốc tế của Việt Nam từ năm 2006 đến nay?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Thường xuyên nâng tầm hợp tác với hệ thống xã hội chủ nghĩa."
+      },
+      {
+        "id": "B",
+        "text": "Đánh dấu sự khởi đầu cho hợp tác đa phương giữa Việt Nam với các nước."
+      },
+      {
+        "id": "C",
+        "text": "Có sự phát triển từng bước về phạm vi và cấp độ hội nhập quốc tế."
+      },
+      {
+        "id": "D",
+        "text": "Là quá trình phá thế bị bao vây và cô lập toàn diện để hội nhập quốc tế."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120141,
+    "question": "So với chiến lược “Chiến tranh đặc biệt” (1961 – 1965), chiến lược “Chiến tranh cục bộ” (1965 –",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diễn ra trong bối cảnh Mỹ đang chống lại phe xã hội chủ nghĩa."
+      },
+      {
+        "id": "B",
+        "text": "Đưa số lượng lớn quân Mỹ vào trực tiếp tham chiến trên chiến trường."
+      },
+      {
+        "id": "C",
+        "text": "Sử dụng vũ khí, trang bị kĩ thuật và phương tiện chiến tranh của Mỹ."
+      },
+      {
+        "id": "D",
+        "text": "Tiến hành bằng lực lượng quân đội Sài Gòn dưới sự chỉ huy của hệ thống cố vấn Mỹ."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120142,
+    "question": "Quốc gia nào sau đây là thành viên của Cộng đồng ASEAN vào năm 2015?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mông Cổ. B. Ma-rốc. C. Bru-nây. D. A-rập Xê-út."
+      },
+      {
+        "id": "A",
+        "text": "Phạm vi liên kết nội khối được mở rộng cùng với sự phát triển của các thành viên."
+      },
+      {
+        "id": "B",
+        "text": "Từ một tổ chức chưa có sự liên kết nội khối phát triển thành một cộng đồng gắn kết."
+      },
+      {
+        "id": "C",
+        "text": "Quá trình hình thành, phát triển chịu sự chi phối thường xuyên của cuộc Chiến tranh lạnh."
+      }
+    ],
+    "correctOption": "A",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120143,
+    "question": "Cuộc khởi nghĩa nào sau đây chống lại ách đô hộ của nhà Minh diễn ra vào đầu thế kỉ XV?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Khởi nghĩa Hai Bà Trưng."
+      },
+      {
+        "id": "B",
+        "text": "Khởi nghĩa Lam Sơn."
+      },
+      {
+        "id": "C",
+        "text": "Khởi nghĩa Bà Triệu."
+      },
+      {
+        "id": "D",
+        "text": "Khởi nghĩa Phùng Hưng."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120144,
+    "question": "Từ năm 1947 đến năm 1989, trên thế giới đã diễn ra",
+    "options": [
+      {
+        "id": "A",
+        "text": "cuộc Chiến tranh lạnh."
+      },
+      {
+        "id": "B",
+        "text": "cuộc đấu tranh thống nhất I-ta-li-a "
+      },
+      {
+        "id": "C",
+        "text": "cuộc Cách mạng tư sản Pháp."
+      },
+      {
+        "id": "D",
+        "text": "cuộc Chiến tranh thế giới thứ hai."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120145,
+    "question": "Một trong những xu thế phát triển chính của thế giới sau cuộc Chiến tranh lạnh là",
+    "options": [
+      {
+        "id": "A",
+        "text": "đối đầu giữa Liên Xô và Mỹ."
+      },
+      {
+        "id": "B",
+        "text": "chấm dứt ngay mọi xung đột giữa các nước."
+      },
+      {
+        "id": "C",
+        "text": "hạn chế liên kết về kinh tế giữa tất cả các nước."
+      },
+      {
+        "id": "D",
+        "text": "đa cực trong quan hệ quốc tế."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120146,
+    "question": "So với Hội nghị thành lập Đảng Cộng sản Việt Nam (1930), Hội nghị Ban Chấp hành Trung",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chủ trương giải quyết vấn đề dân tộc cho phù hợp với điều kiện lịch sử cụ thể của Việt Nam."
+      },
+      {
+        "id": "B",
+        "text": "Diễn ra trong bối cảnh thực dân Pháp cấu kết với phát xít Nhật để thống trị Việt Nam."
+      },
+      {
+        "id": "C",
+        "text": "Góp phần định hướng, thúc đẩy sự phát triển của phong trào giải phóng dân tộc ở Việt Nam."
+      },
+      {
+        "id": "D",
+        "text": "Thể hiện vai trò của Nguyễn Ái Quốc trong việc hoạch định đường lối chiến lược cách mạng Việt"
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120147,
+    "question": "Hội nghị Cấp cao ASEAN lần thứ 37 (2020) diễn ra ở quốc gia nào sau đây?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Xi-ri"
+      },
+      {
+        "id": "B",
+        "text": "Xu-đăng"
+      },
+      {
+        "id": "C",
+        "text": "Bun-ga-ri"
+      },
+      {
+        "id": "D",
+        "text": "Việt Nam"
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120148,
+    "question": "Nguyễn Ái Quốc không có hoạt động nào sau đây trong giai đoạn 1920 – 1930?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ra đi tìm đường cứu nước từ Bến Nhà Rồng."
+      },
+      {
+        "id": "B",
+        "text": "Tham gia sáng lập Đảng Cộng sản Pháp."
+      },
+      {
+        "id": "C",
+        "text": "Soạn thảo Chính cương vắn tắt, Sách lược vắn tắt."
+      },
+      {
+        "id": "D",
+        "text": "Tham dự Đại hội V của Quốc tế Cộng sản."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120149,
+    "question": "Quá trình từ đàm phán đến kí kết Hiệp định Pa-ri (1968 – 1973) đã để lại bài học kinh nghiệm",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tranh thủ sự ủng hộ của quốc tế để hoàn thành cuộc cách mạng dân tộc dân chủ nhân dân."
+      },
+      {
+        "id": "B",
+        "text": "Linh hoạt trong hoạt động đối ngoại để giải quyết triệt để lợi ích của các nước."
+      },
+      {
+        "id": "C",
+        "text": "Đặt trọng tâm vào việc duy trì, phát triển đồng đều mối quan hệ với các đối tác truyền thống."
+      },
+      {
+        "id": "D",
+        "text": "Kiên trì đường lối đối ngoại hòa bình, độc lập, tự chủ trong quan hệ với các nước."
+      }
+    ],
+    "correctOption": "D",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120150,
+    "question": "Một trong những nguyên nhân dẫn đến sự sụp đổ của Trật tự thế giới hai cực I-an-ta là do",
+    "options": [
+      {
+        "id": "A",
+        "text": "Liên Xô và Mỹ bị suy giảm sức mạnh kinh tế, tài chính."
+      },
+      {
+        "id": "B",
+        "text": "tác động trực tiếp của cuộc Chiến tranh thế giới thứ nhất."
+      },
+      {
+        "id": "C",
+        "text": "sự ra đời của Cộng đồng Chính trị – An ninh ASEAN."
+      },
+      {
+        "id": "D",
+        "text": "Mỹ không còn là siêu cường kinh tế số một thế giới."
+      }
+    ],
+    "correctOption": "C",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  },
+  {
+    "id": 120151,
+    "question": "Một trong những hoạt động của Liên hợp quốc để duy trì hòa bình và an ninh quốc tế là",
+    "options": [
+      {
+        "id": "A",
+        "text": "xây dựng các công ước quốc tế về giải trừ quân bị."
+      },
+      {
+        "id": "B",
+        "text": "xây dựng quân đội thống nhất cho các quốc gia."
+      },
+      {
+        "id": "C",
+        "text": "thành lập khối phòng thủ chung dựa trên cơ sở đồng thuận."
+      },
+      {
+        "id": "D",
+        "text": "thành lập Tổ chức Hiệp ước Bắc Đại Tây Dương."
+      }
+    ],
+    "correctOption": "B",
+    "difficulty": "Vận Dụng",
+    "grade": 12,
+    "topic": "",
+    "explanation": ""
+  }
+]

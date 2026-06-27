@@ -1,0 +1,16 @@
+{
+  "name": "fr-ck-lich-su",
+  "private": true,
+  "scripts": {
+    "db:init": "php backend/init_db.php",
+    "db:import": "php backend/import_questions.php",
+    "start": "php -S localhost:8080",
+    "dev": "npm run db:init && npm run start",
+    "css:build": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css",
+    "css:watch": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.3.0",
+    "tailwindcss": "^4.3.0"
+  }
+}
